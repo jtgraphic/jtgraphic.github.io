@@ -1,0 +1,48 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  line-height: 1em;
+}
+
+@font-face {
+  font-family: daftlabs;
+  src:
+  url('../css/avenir_next_ul.ttf') format('truetype'),
+  url('../css/avenir_next_ul.woff') format('woff')
+  ;
+  font-style: normal;
+}
+
+body {
+  background: black;
+  color: white;
+}
+
+h1 {
+  font-family: daftlabs, Calligraffitti;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 15pt;
+  font-size: 96pt;
+  font-weight: 100;
+  letter-spacing: 15pt;
+}
+
+.site {
+  margin: 5px;
+  padding: 5px;
+  background: #772266;
+  width: 138px;
+  display: inline-block;
+}
+
+.site:hover {
+  background: #993377;
+}
+
+@media (max-width: 800px) {
+  h1 {
+    font-size: 36pt;
+  }
+}
