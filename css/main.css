@@ -48,6 +48,12 @@ p {
   margin: 10px 0px;
 }
 
+svg {
+  color: #FFFFFF;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
 .site {
   margin: 5px;
   padding: 5px;
