@@ -41,17 +41,12 @@ select {
 }
 
 img {
-  width: 100%;
+  width: 138px;
+  height: 138px;
 }
 
 p {
   margin: 10px 0px;
-}
-
-svg {
-  color: #FFFFFF;
-  stroke: currentColor;
-  fill: currentColor;
 }
 
 .site {
