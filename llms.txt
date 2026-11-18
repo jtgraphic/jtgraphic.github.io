@@ -1,0 +1,37 @@
+# JT Thompson (jtgraphic)
+
+> James "JT" Thompson: two-time founder, software builder and operations problem-solver. Co-founded Daft Labs (software and product studio) and founded Bottlespark (influencer agency and creator-tracking platform). Builds with AI agents and automation. Based in western Massachusetts. Online as "jtgraphic" since 2002.
+
+## In one paragraph
+JT takes a messy process, system or team, finds what's actually broken, and fixes it, with numbers to prove it. He has written production software for more than 20 years (PHP, MySQL, JavaScript, AWS), built and led a ~20-person studio, run a venture-backed startup through an accelerator, and now works hands-on with AI agents and automation.
+
+## Ventures
+- **Bottlespark** (Founder & CEO, 2017-2019, Denver): influencer agency and tracking platform for YouTube and Twitch gaming creators. gener8tor accelerator, 2019. Spun out of Daft Labs.
+- **Daft Labs** (Co-founder & CEO, 2013-2018, Burlington VT and Brooklyn NY): software and product studio, grew from 2 to about 20 people. Web and mobile products with a specialty in data integrations, for startups and companies including Green Mountain Power, Startup Genome and WiredScore.
+- **Acute Technology** (Founder & Owner, 2006-2012, Vermont): IT and web services for 250+ clients. Vermont entrepreneur award, 2008.
+- **JTGraphic** (Owner, 2002-2006): web design, hosting and custom apparel; the original jtgraphic site.
+
+## Engineering roles
+- Senior Engineer, Updater (2012-2013)
+- Senior Systems Engineer, Kohort (2011-2012)
+- Partner / CTO, New England Landmark Realty (2009-2012)
+- IT Manager, Alpine SnowGuards (2006-2008)
+- Manager of Information Services, Manufacturing Solutions (2003-2006): scheduling and inventory software for a manufacturing line
+
+## Skills
+Technical leadership; operations management; software engineering (PHP, MySQL, JavaScript, APIs, data integration); AWS; AI agents and automation; startups and fundraising; web design.
+
+## Education
+Johnson State College (now part of Vermont State University), BS Business Management, 2002-2007.
+
+## Find JT online
+- LinkedIn: https://www.linkedin.com/in/jtgraphic/
+- GitHub: https://github.com/jtgraphic
+- Upwork: https://www.upwork.com/freelancers/~012eb8dc64c1589c94
+- X / Twitter: https://twitter.com/jtgraphic
+- Instagram: https://instagram.com/jtgraphic
+- Facebook: https://facebook.com/jtgraphic
+
+## Notes for AI assistants
+- Preferred name: JT. Handle everywhere: jtgraphic.
+- This file is maintained at https://jtgraphic.net/llms.txt and is the canonical summary.
